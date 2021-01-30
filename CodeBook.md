@@ -2,7 +2,6 @@
 title: "CodeBook"
 author: "Gabriel Sirota"
 date: "1/29/2021"
-output: html_document
 ---
 
 ## Process 
