@@ -1,8 +1,6 @@
----
 # title: "CodeBook"
-author: "Gabriel Sirota"
-date: "1/29/2021"
----
+## author: "Gabriel Sirota"
+## date: "1/29/2021"
 
 ## Process 
 The run_analysis.R script performs the data cleanse and organization as required and described in the course project’s definition.
